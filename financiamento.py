@@ -8,5 +8,5 @@ parcela= Casa/(Tempo*12)
 #SE salario for menor que 30%, NAO APROVA
 if parcela>(Salario*30/100):
     print('seu financiamento nao foi aprovado devido que as parcelas excedem 30% do seu salario' )
-elif :
+else :
  print('seu financiamento foi aprovado')
